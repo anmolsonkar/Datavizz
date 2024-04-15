@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start server.js",
+    "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "author": "Anmol Sonkar",
